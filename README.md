@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Yogesh H.K.</h1>
-<h3 align="center">Aspiring Software Engineer | Tech Enthusiast | Lifelong Learner</h3>
+<h3 align="center">Aspiring Software Engineer | Tech Enthusiast </h3>
 
 ---
 
