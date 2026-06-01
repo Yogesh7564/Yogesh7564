@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Animated Title -->
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=00FF00&center=true&vCenter=true&width=940&height=100&lines=👋+Hi+there!+I'm+Yogesh+H.K.;Aspiring+Software+Engineer+%7C+Tech+Enthusiast;Full-Stack+Developer+%7C+AI+Enthusiast;Open-Source+Contributor;Always+Learning%2C+Always+Growing" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=00FF00&center=true&vCenter=true&width=940&height=100&lines=👋+Hi+there!+I'm+Yogesh+H.K.;Full-Stack+Developer+%26+AI+Enthusiast;LLM+Explorer+%26+Open-Source+Contributor" alt="Typing SVG" />
 
 </div>
 
@@ -87,27 +87,21 @@
 ## 📊 GitHub Statistics
 
 <div align="center">
-  
-<!-- GitHub Stats Card with Animation -->
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=Yogesh7564&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&icon_color=58a6ff&text_color=c9d1d9&title_color=58a6ff">
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=Yogesh7564&show_icons=true&theme=default&hide_border=true">
-  <img alt="Yogesh's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=Yogesh7564&show_icons=true&theme=radical&hide_border=true">
-</picture>
+
+<!-- GitHub Stats Card - Updated with better reliability -->
+<a href="https://github.com/Yogesh7564">
+  <img height="200" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Yogesh7564&show_icons=true&theme=radical&hide_border=true&rank_icon=percentile" alt="Yogesh's GitHub stats" />
+</a>
 
 <!-- Most Used Languages -->
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Yogesh7564&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&text_color=c9d1d9&title_color=58a6ff">
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Yogesh7564&layout=compact&theme=default&hide_border=true">
-  <img alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yogesh7564&layout=compact&theme=radical&hide_border=true">
-</picture>
+<a href="https://github.com/Yogesh7564">
+  <img height="200" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Yogesh7564&layout=compact&theme=radical&hide_border=true" alt="Top Langs" />
+</a>
 
 <!-- Contribution Streak -->
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com?user=Yogesh7564&theme=radical&hide_border=true&background=0d1117">
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-streak-stats.herokuapp.com?user=Yogesh7564&theme=default&hide_border=true">
-  <img alt="Contribution Streak" src="https://github-readme-streak-stats.herokuapp.com?user=Yogesh7564&theme=radical&hide_border=true">
-</picture>
+<a href="https://github.com/Yogesh7564">
+  <img height="200" src="https://github-readme-streak-stats.herokuapp.com/?user=Yogesh7564&theme=radical&hide_border=true" alt="Contribution Streak" />
+</a>
 
 </div>
 
@@ -132,9 +126,11 @@
 
 ## 📈 Activity Graph
 
-<!-- Activity Graph -->
+<!-- Activity Graph - Using Alternative Service -->
 <div align="center">
-  <img src="https://activity-graph.herokuapp.com/graph?username=Yogesh7564&theme=radical&hide_border=true&area=true" alt="Activity Graph" width="100%">
+  <a href="https://github.com/Yogesh7564">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=Yogesh7564&theme=radical&hide_border=true&area=true" alt="Activity Graph" width="100%">
+  </a>
 </div>
 
 ---
