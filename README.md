@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Animated Title -->
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=00FF00&center=true&vCenter=true&width=940&height=100&lines=👋+Hi+there!+I'm+Yogesh+H.K.;Full-Stack+Developer+%26+AI+Enthusiast;LLM+Explorer+%26+Open-Source+Contributor" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=00FF00&center=true&vCenter=true&width=940&height=100&lines=👋+Hi+there!+I'm+Yogesh+H.K.;Full-Stack+Developer;AI+and+ML+Enthusiast;Open-Source+Contributor;Always+Learning+%26+Growing" alt="Typing">
 
 </div>
 
@@ -88,19 +88,19 @@
 
 <div align="center">
 
-<!-- GitHub Stats Card - Updated with better reliability -->
+<!-- GitHub Stats Card - Improved reliability -->
 <a href="https://github.com/Yogesh7564">
-  <img height="200" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Yogesh7564&show_icons=true&theme=radical&hide_border=true&rank_icon=percentile" alt="Yogesh's GitHub stats" />
+  <img height="200" src="https://github-readme-stats.vercel.app/api?username=Yogesh7564&show_icons=true&theme=radical&hide_border=true&rank_icon=percentile" alt="Yogesh's GitHub Stats">
 </a>
 
 <!-- Most Used Languages -->
 <a href="https://github.com/Yogesh7564">
-  <img height="200" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Yogesh7564&layout=compact&theme=radical&hide_border=true" alt="Top Langs" />
+  <img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yogesh7564&layout=compact&theme=radical&hide_border=true" alt="Top Languages">
 </a>
 
 <!-- Contribution Streak -->
 <a href="https://github.com/Yogesh7564">
-  <img height="200" src="https://github-readme-streak-stats.herokuapp.com/?user=Yogesh7564&theme=radical&hide_border=true" alt="Contribution Streak" />
+  <img height="200" src="https://streak-stats.demolab.com?user=Yogesh7564&theme=radical&hide_border=true" alt="Contribution Streak">
 </a>
 
 </div>
@@ -126,7 +126,7 @@
 
 ## 📈 Activity Graph
 
-<!-- Activity Graph - Using Alternative Service -->
+<!-- Activity Graph - Using reliable service -->
 <div align="center">
   <a href="https://github.com/Yogesh7564">
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=Yogesh7564&theme=radical&hide_border=true&area=true" alt="Activity Graph" width="100%">
