@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=00FF00&center=true&vCenter=true&width=940&height=100&lines=👋+Hi+there!+I'm+Yogesh+H.K.;Java+Developer" alt="Hi, I'm Yogesh H.K., a Java Developer" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=2500&pause=1500&color=00FF00&center=true&vCenter=true&width=960&height=100&lines=👋+Hi+there!+I'm+Yogesh+H.K.;Java+Developer;Full-Stack+Enthusiast;Problem+Solver" alt="Hi, I'm Yogesh H.K., a Java Developer" />
 
 <p>
   <a href="https://github.com/Yogesh7564">
@@ -10,7 +10,7 @@
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn profile">
   </a>
   <a href="mailto:yogeshhk098@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Yogesh">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
   </a>
 </p>
 
@@ -18,58 +18,81 @@
 
 ---
 
-## About Me
+## 🚀 About Me
 
-I'm a Java developer interested in building practical applications and continuing to grow across software development. I also enjoy exploring web technologies and AI tools.
+I am a Java developer focused on building practical, user-friendly applications and improving my software engineering skills every day. I enjoy solving real-world problems, learning modern web technologies, and working on projects that combine backend logic with a strong user experience.
 
-- **Currently working on:** Web applications and Java projects
-- **Currently learning:** Full-stack development, cloud technologies, and DevOps
-- **Interested in:** Open-source collaboration, problem-solving, and developer communities
-- **Ask me about:** Java, Python, JavaScript, and Git
+- 🔭 **Currently working on:** Java projects, full-stack applications, and practical software development
+- 🌱 **Currently learning:** Java backend development, Spring Boot, cloud tools, and DevOps workflows
+- 🤝 **Looking to collaborate on:** Open-source projects, developer communities, and real-world product builds
+- 💡 **Interested in:** Backend development, full-stack engineering, problem solving, and clean architecture
+- 📫 **Reach me:** [LinkedIn](https://www.linkedin.com/in/yogesh-h-k) | [Email](mailto:yogeshhk098@gmail.com) | [GitHub](https://github.com/Yogesh7564)
 
-## Tech Stack
+---
 
-**Languages:** Java · Python · JavaScript · TypeScript · SQL  
-**Frontend:** React · HTML · CSS · Tailwind CSS · Bootstrap  
-**Backend & databases:** Node.js · Express · MongoDB · MySQL · Firebase  
-**Tools:** Git · GitHub · Docker · Jenkins · Linux  
-**AI/data tools:** TensorFlow · Pandas · LLM tools
+## 🛠️ Tech Stack
 
-## Featured Projects
+### Languages
+Java • Python • JavaScript • TypeScript • SQL
 
-| Project | Description | Technologies |
-|---------|-------------|--------------|
-| [Gym Management System](https://github.com/Yogesh7564/Gympro_javaFullstack_project) | Java full-stack gym membership management project. | Java, MySQL, Swing |
-| [STUDYSYNC AI](https://github.com/Yogesh7564/STUDYSYNC-AI_project) | AI-powered study platform for collaborative learning. | JavaScript, React, Node.js |
-| [Jharkhand Tourism Platform](https://github.com/Yogesh7564/Jharkhand-s-Tourism-platform-) | Tourism exploration platform focused on Jharkhand. | Python, Django, React |
-| [A-to-Z Resources for Students](https://github.com/Yogesh7564/A-to-Z-Resources-for-Students) | Curated resources for college students. | JavaScript |
+### Frontend
+React • HTML • CSS • Tailwind CSS • Bootstrap
 
-## Current Focus
+### Backend & Databases
+Node.js • Express.js • MongoDB • MySQL • Firebase
 
-- Strengthening my Java and application-development skills
-- Building and improving practical projects
-- Learning more about cloud technologies and DevOps
+### Tools & DevOps
+Git • GitHub • Docker • Jenkins • Linux
 
-## GitHub
+### AI & Data
+TensorFlow • Pandas • LLM tools
+
+---
+
+## 🏆 Featured Projects
+
+| Project | Description | Tech Stack |
+|---------|-------------|-----------|
+| [Gym Management System](https://github.com/Yogesh7564/Gympro_javaFullstack_project) | Java full-stack gym membership management platform with database-driven operations. | Java, MySQL, Swing |
+| [STUDYSYNC AI](https://github.com/Yogesh7564/STUDYSYNC-AI_project) | AI-powered learning platform focused on collaborative study and knowledge sharing. | JavaScript, React, Node.js |
+| [Jharkhand Tourism Platform](https://github.com/Yogesh7564/Jharkhand-s-Tourism-platform-) | Tourism platform designed to promote destinations and travel experiences. | Python, Django, React |
+| [A-to-Z Resources for Students](https://github.com/Yogesh7564/A-to-Z-Resources-for-Students) | Curated resources hub for students with useful learning material and guidance. | JavaScript, Git |
+
+---
+
+## 📊 GitHub Stats
 
 <div align="center">
   <a href="https://github.com/Yogesh7564">
-    <img height="180" src="https://github-readme-stats.vercel.app/api?username=Yogesh7564&show_icons=true&theme=radical&hide_border=true" alt="Yogesh's GitHub statistics">
+    <img height="180" src="https://github-readme-stats.vercel.app/api?username=Yogesh7564&show_icons=true&theme=radical&hide_border=true" alt="Yogesh's GitHub Stats">
   </a>
   <a href="https://github.com/Yogesh7564">
-    <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yogesh7564&layout=compact&theme=radical&hide_border=true" alt="Most-used languages in Yogesh's public repositories">
+    <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yogesh7564&layout=compact&theme=radical&hide_border=true" alt="Top Languages">
   </a>
 </div>
 
-## Let's Connect
+---
 
-I'm happy to connect with fellow developers and collaborate on interesting projects.
+## 🎯 Current Focus
 
-- [LinkedIn](https://www.linkedin.com/in/yogesh-h-k)
-- [Email](mailto:yogeshhk098@gmail.com)
-- [GitHub](https://github.com/Yogesh7564)
-- [Portfolio source](https://github.com/Yogesh7564/yogesh-portfolio)
+- Building stronger Java backend and application development skills
+- Improving practical project work and full-stack implementation
+- Learning cloud technologies and DevOps practices
+- Solving coding problems and building impactful software
+
+---
+
+## 📞 Let's Connect
+
+I’m always open to collaborating on interesting projects and learning from fellow developers.
+
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Yogesh7564)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yogesh-h-k)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yogeshhk098@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF6B6B?style=for-the-badge&logo=firefox&logoColor=white)](https://Yogesh7564.github.io)
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=Yogesh7564&style=flat-square&color=blue" alt="Profile views">
+  <img src="https://komarev.com/ghpvc/?username=Yogesh7564&style=flat-square&color=blue" alt="Profile views count">
 </div>
+
+### ⭐ Thanks for visiting my profile!
